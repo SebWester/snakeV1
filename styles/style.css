@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  background-color: black;
+}
+
+h1 {
+  display: block;
+  width: fit-content;
+  margin: 5px auto;
+  color: rgb(20, 240, 20);
+}
+
+#gameBoard {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  border: 1px solid whitesmoke;
+}
